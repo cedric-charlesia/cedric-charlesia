@@ -13,7 +13,7 @@ I love playing with nodeJS, API and databases!
 ⚡ Fun fact: 
 
 - After graduation, I made a **1000 days** backpacking trip trough Australia an Asia
-During my time in Taiwan, I learned a bit of Mandarin Chine and I created a [Taipei Timelapse](https://vimeo.com/numericnomade/taipei-timelapse).
+During my time in Taiwan, I learned a bit of Mandarin Chinese and I created a [Taipei Timelapse](https://vimeo.com/numericnomade/taipei-timelapse).
 
 - Beyong the web, but I am also a pastor (yes, that's right) in a church in Paris. So, I get to spend much time with a lot a different kind of people!
 
