@@ -1,12 +1,12 @@
 # Hi, I'm Cédric!
 
-### I'm a French web developer currently living in Paris area.
+### I'm a French web and web mobile developer currently living in Paris area.
 
 🔭 I always try to expand my knowledges and to learn new things, particulary on the web.
 
-There, in August 2021, I quit my job as a export assistant to follow a full-time Javascript bootcamp in order to become a so-called fullstack web developer.
+There, in August 2021, I quit my job as a export assistant to follow a full-time Javascript bootcamp in order to become a so-called web developer.
 
-🌱 As you can guess, I am currently learning everything I can around the Javascript ecosystem.
+🌱 I am currently learning everything I can around the Javascript and mobile development ecosystem.
 
 I love playing with nodeJS, API and databases!
 
