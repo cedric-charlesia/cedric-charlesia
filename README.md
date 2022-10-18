@@ -30,9 +30,9 @@ During my time in Taiwan, I learned a bit of Mandarin Chinese and I created a [T
 
 ### Where to find me
 
-[![{:target="_blank"}](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/cedric-charlesia)
-[![{:target="_blank"}](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cedric-charlesia/)
-[![{:target="_blank"}](https://img.shields.io/badge/website-%22220286B5.svg?&style=for-the-badge&logo=blog&logoColor=white)](https://cedriccharlesia.com/)
+[![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/cedric-charlesia)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cedric-charlesia/)
+[![](https://img.shields.io/badge/website-%22220286B5.svg?&style=for-the-badge&logo=blog&logoColor=white)](https://cedriccharlesia.com/)
 
 ### Acknowledgments
 This readme is inspired by [Nicolas Brondin](https://github.com/NicolasBrondin) one's.
