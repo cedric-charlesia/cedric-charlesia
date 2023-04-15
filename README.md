@@ -1,6 +1,6 @@
 # Hi, I'm Cédric!
 
-### I'm a French Node.js developer currently living in Paris area.
+### I'm a French JavaScript web developer currently living in Paris area.
 
 🔭 I always try to expand my knowledges and to learn new things, particulary on the web.
 
